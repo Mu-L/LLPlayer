@@ -285,7 +285,7 @@ I plan to support the dictionary API in the future, but is not currently support
 Instead, you can copy selected words to the clipboard.
 Certain dictionary tools can monitor the clipboard and search for words.
 
-For English-English dictionaries, [LDOCE5 Viewer](https://github.com/ciscorn/ldoce5viewer) is highly recommended.
+For English-English dictionaries, [LDOCE5 Viewer X](https://github.com/umlx5h/LDOCE5ViewerX) is highly recommended.
 
 #### Q: Can I use browser extensions such as Yomitan or 10ten?
 
