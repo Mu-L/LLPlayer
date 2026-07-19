@@ -194,20 +194,20 @@ Guiding Principles for LLPlayer
 
 ## 🤝 Contribution
 
-Contributions are very welcome! Development is easy because it is written in C#/WPF.
+Contributions are welcome!
 
 If you want to improve the core of the video player other than UI and language functions,
 LLPlayer uses Flyleaf as a core player library, so if you submit it there, I will actively incorporate the changes into the LLPlayer side.
 
 https://github.com/SuRGeoNix/Flyleaf
 
-I may not be able to respond to all questions or requests regarding core player parts as I do not currently understand many of them yet.
-
 For more information for developers, please check the following page.
 
 https://github.com/umlx5h/LLPlayer/wiki/For-Developers
 
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/umlx5h/LLPlayer)
+
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting a pull request.
 
 ## 🙏 Special Thanks
 
